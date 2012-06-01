@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<OptionsData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fullscreen>true</fullscreen>
+  <invertY>false</invertY>
+  <musicVolume>98</musicVolume>
+  <soundVolume>99</soundVolume>
+  <clippingDistance>5</clippingDistance>
+  <gamePad>false</gamePad>
+  <controller>One</controller>
+</OptionsData>

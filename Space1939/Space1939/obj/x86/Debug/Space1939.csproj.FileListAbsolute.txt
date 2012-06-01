@@ -1,0 +1,72 @@
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\ControlMenu\controllerSelect.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\Buttons\exit_button.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\Buttons\options_button.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\Buttons\resume_button.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\arrow.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\Menu.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\menu_options.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\changeControllerButton.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\off.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\on.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\slider.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\sliderBackGround.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Space 1939.exe
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Space 1939.pdb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\obj\x86\Debug\Space 1939.exe
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\obj\x86\Debug\Space 1939.pdb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\backButton.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\saveButton.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Sound\Music\music.xgs
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Sound\Music\Music.xwb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Sound\Music\Music.xsb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\record.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\toneArm.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Sound\Sound\Sounds.xwb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Sound\Sound\Sounds.xsb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Sound\Sound\Sounds.xgs
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\IntroAssets\titleScreen.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\loading.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Planets\moon_2500x1250_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\ship.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\dome_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\ADP-texture-22_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\boiler_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\funnel_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Space 1939.exe.manifest
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Space 1939.application
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\obj\x86\Debug\Space 1939.exe.manifest
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\obj\x86\Debug\Space 1939.application
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Particals\smoke.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\ParticleEffect.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Particals\fire.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Particals\smokeOLD.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\skybox.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\skybox.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Top_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Right_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Left_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Front_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Back_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Bottom_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Top_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Right_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Left_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Front_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Back_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Bottom_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\TerrainEffect.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Levels\Level2\heightmap.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Levels\Level2\moonTexture.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Asteroid\LargeAsteroid.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Asteroid\AsteroidTexture_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Particals\explosion.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Record\record.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Record\texture_0.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Planets\moon.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\HUD\Health\background.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\HUD\Health\foreground.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\HUD\Health\needle.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\HUD\Score\score.xnb
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\HUD\Score\ScoreFont.xnb

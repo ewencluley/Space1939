@@ -1,0 +1,768 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Menus\MainMenu\record.png</Source>
+      <Name>Menus\MainMenu\record</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\record.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MainMenu\toneArm.png</Source>
+      <Name>Menus\MainMenu\toneArm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\toneArm.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\ControlMenu\controllerSelect.png</Source>
+      <Name>Menus\ControlMenu\controllerSelect</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\ControlMenu\controllerSelect.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MainMenu\Buttons\exit_button.png</Source>
+      <Name>Menus\MainMenu\Buttons\exit_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\Buttons\exit_button.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MainMenu\Buttons\options_button.png</Source>
+      <Name>Menus\MainMenu\Buttons\options_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\Buttons\options_button.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MainMenu\Buttons\resume_button.png</Source>
+      <Name>Menus\MainMenu\Buttons\resume_button</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\Buttons\resume_button.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\arrow.png</Source>
+      <Name>Menus\arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\arrow.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\MainMenu\Menu.png</Source>
+      <Name>Menus\MainMenu\Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\MainMenu\Menu.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\OptionsMenu\Buttons\changeControllerButton.png</Source>
+      <Name>Menus\OptionsMenu\Buttons\changeControllerButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\changeControllerButton.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\OptionsMenu\Buttons\off.png</Source>
+      <Name>Menus\OptionsMenu\Buttons\off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\off.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\OptionsMenu\Buttons\on.png</Source>
+      <Name>Menus\OptionsMenu\Buttons\on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\on.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\OptionsMenu\Buttons\slider.png</Source>
+      <Name>Menus\OptionsMenu\Buttons\slider</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\slider.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\OptionsMenu\Buttons\sliderBackGround.png</Source>
+      <Name>Menus\OptionsMenu\Buttons\sliderBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\sliderBackGround.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\OptionsMenu\menu_options.png</Source>
+      <Name>Menus\OptionsMenu\menu_options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\menu_options.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\OptionsMenu\Buttons\backButton.png</Source>
+      <Name>Menus\OptionsMenu\Buttons\backButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\backButton.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\OptionsMenu\Buttons\saveButton.png</Source>
+      <Name>Menus\OptionsMenu\Buttons\saveButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\OptionsMenu\Buttons\saveButton.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\loading.png</Source>
+      <Name>Menus\loading</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Menus\loading.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>IntroAssets\titleScreen.png</Source>
+      <Name>IntroAssets\titleScreen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\IntroAssets\titleScreen.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Particals\smoke.bmp</Source>
+      <Name>Particals\smokeOLD</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Particals\smokeOLD.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Particals\fire.png</Source>
+      <Name>Particals\fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Particals\fire.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Particals\smoke.png</Source>
+      <Name>Particals\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Particals\smoke.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\Level2\heightmap.bmp</Source>
+      <Name>Levels\Level2\heightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Levels\Level2\heightmap.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Levels\Level2\moonTexture.jpg</Source>
+      <Name>Levels\Level2\moonTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Levels\Level2\moonTexture.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Particals\explosion.png</Source>
+      <Name>Particals\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Particals\explosion.xnb</Output>
+      <Time>2011-06-25T21:15:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health\background.png</Source>
+      <Name>HUD\Health\background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\HUD\Health\background.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health\foreground.png</Source>
+      <Name>HUD\Health\foreground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\HUD\Health\foreground.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Health\needle.png</Source>
+      <Name>HUD\Health\needle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\HUD\Health\needle.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Score\score.png</Source>
+      <Name>HUD\Score\score</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\HUD\Score\score.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Planets\moon.fbx</Source>
+      <Name>Models\Planets\moon</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Planets\moon.xnb</Output>
+      <Time>2011-06-25T21:15:05+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Planets\moon_0.xml</Key>
+        <Value>2011-07-26T13:42:20.9044177+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Planets\moon_2500x1250_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Player\ship.fbx</Source>
+      <Name>Models\Player\ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\ship.xnb</Output>
+      <Time>2011-06-25T21:15:05+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Player\ship_0.xml</Key>
+        <Value>2011-07-26T13:42:21.9340195+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\dome_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\ADP-texture-22_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\boiler_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\funnel_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Asteroid\LargeAsteroid.fbx</Source>
+      <Name>Models\Asteroid\LargeAsteroid</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Asteroid\LargeAsteroid.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Asteroid\LargeAsteroid_0.xml</Key>
+        <Value>2011-07-26T13:42:24.4144238+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Asteroid\AsteroidTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Record\record.fbx</Source>
+      <Name>Models\Record\record</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Record\record.xnb</Output>
+      <Time>2011-06-25T21:15:06+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Record\record_0.xml</Key>
+        <Value>2011-07-26T13:42:24.7576244+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Record\texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Space\skybox.x</Source>
+      <Name>Skyboxes\Space\skybox</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\skybox.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Skyboxes\Space\skybox_0.xml</Key>
+        <Value>2011-07-26T13:42:25.4440256+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Top_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Right_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Left_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Front_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Back_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Bottom_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Moon\skybox.x</Source>
+      <Name>Skyboxes\Moon\skybox</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\skybox.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Skyboxes\Moon\skybox_0.xml</Key>
+        <Value>2011-07-26T13:42:28.8604316+01:00</Value>
+      </Dependency>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Top_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Right_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Left_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Front_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Back_0.xnb</Request>
+      <Request>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Bottom_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ParticleEffect.fx</Source>
+      <Name>ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\ParticleEffect.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>TerrainEffect.fx</Source>
+      <Name>TerrainEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\TerrainEffect.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>HUD\Score\ScoreFont.spritefont</Source>
+      <Name>HUD\Score\ScoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\HUD\Score\ScoreFont.xnb</Output>
+      <Time>2011-06-25T21:15:03+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Planets\moon.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Planets\moon_0.xml</Output>
+      <Time>2011-06-25T21:15:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Planets\moon_2500x1250.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Planets\moon_2500x1250_0.xnb</Output>
+      <Time>2011-06-25T21:15:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\ship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Player\ship_0.xml</Output>
+      <Time>2011-06-25T21:15:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\dome.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\dome_0.xnb</Output>
+      <Time>2011-06-25T21:15:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\ADP-texture-22.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\ADP-texture-22_0.xnb</Output>
+      <Time>2011-06-25T21:15:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\boiler.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\boiler_0.xnb</Output>
+      <Time>2011-06-25T21:15:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Player\funnel.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Player\funnel_0.xnb</Output>
+      <Time>2011-06-25T21:15:05+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Asteroid\LargeAsteroid.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Asteroid\LargeAsteroid_0.xml</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Asteroid\AsteroidTexture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Asteroid\AsteroidTexture_0.xnb</Output>
+      <Time>2011-06-25T21:15:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Record\record.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Record\record_0.xml</Output>
+      <Time>2011-06-25T21:15:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Record\texture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Models\Record\texture_0.xnb</Output>
+      <Time>2011-06-25T21:15:06+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Space\skybox.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Skyboxes\Space\skybox_0.xml</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Space\SkyBox_Top.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Top_0.xnb</Output>
+      <Time>2011-06-25T21:15:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Space\SkyBox_Right.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Right_0.xnb</Output>
+      <Time>2011-06-25T21:15:08+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Space\SkyBox_Left.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Left_0.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Space\SkyBox_Front.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Front_0.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Space\SkyBox_Back.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Back_0.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Space\SkyBox_Bottom.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Space\SkyBox_Bottom_0.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Moon\skybox.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Skyboxes\Moon\skybox_0.xml</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Moon\SkyBox_Top.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Top_0.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Moon\SkyBox_Right.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Right_0.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Moon\SkyBox_Left.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Left_0.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Moon\SkyBox_Front.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Front_0.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Moon\SkyBox_Back.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Back_0.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Skyboxes\Moon\SkyBox_Bottom.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\Skyboxes\Moon\SkyBox_Bottom_0.xnb</Output>
+      <Time>2011-06-25T21:15:07+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-26T10:44:46.996144+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

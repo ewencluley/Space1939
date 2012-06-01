@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="music">Wave Bank
+{
+    Name = music;
+    Xbox File = Xbox\music.xwb;
+    Windows File = Win\music.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 8632759;
+    PC Bank Last Modified High = 30149292;
+    Bank Last Revised Low = 8332742;
+    Bank Last Revised High = 30149292;
+
+    Wave
+    {
+        Name = Chattanooga-Choo-Choo;
+        File = Chattanooga-Choo-Choo.wav;
+        Build Settings Last Modified Low = 2491680379;
+        Build Settings Last Modified High = 30144962;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 36343136;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2437987999;
+            Last Modified High = 30143203;
+        }
+    }
+
+    Wave
+    {
+        Name = Don't Sit Under the Apple Tree;
+        File = Don't Sit Under the Apple Tree.wav;
+        Build Settings Last Modified Low = 2491680379;
+        Build Settings Last Modified High = 30144962;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 33885420;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2466009602;
+            Last Modified High = 30143203;
+        }
+    }
+
+    Wave
+    {
+        Name = I'm Tickled Pink;
+        File = I'm Tickled Pink.wav;
+        Build Settings Last Modified Low = 2491690380;
+        Build Settings Last Modified High = 30144962;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 19204080;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2130883019;
+            Last Modified High = 30144960;
+        }
+    }
+
+    Wave
+    {
+        Name = I've Got a Girl In Kalamozoo;
+        File = I've Got a Girl In Kalamozoo.wav;
+        Build Settings Last Modified Low = 2491690380;
+        Build Settings Last Modified High = 30144962;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 34140548;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2497271390;
+            Last Modified High = 30143203;
+        }
+    }
+
+    Wave
+    {
+        Name = Milkman Keep Those Bottles Quie;
+        File = Milkman Keep Those Bottles Quie.wav;
+        Build Settings Last Modified Low = 2491700380;
+        Build Settings Last Modified High = 30144962;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 24902976;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 1840034745;
+            Last Modified High = 30144961;
+        }
+    }
+
+    Wave
+    {
+        Name = Saturday Night;
+        File = Saturday Night.wav;
+        Build Settings Last Modified Low = 2491700380;
+        Build Settings Last Modified High = 30144962;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 28964880;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3413244728;
+            Last Modified High = 30144961;
+        }
+    }
+
+    Wave
+    {
+        Name = The White Cliffs Of Dover;
+        File = The White Cliffs Of Dover.wav;
+        Build Settings Last Modified Low = 2491710381;
+        Build Settings Last Modified High = 30144962;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 34682592;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2484021579;
+            Last Modified High = 30144961;
+        }
+    }
+
+    Wave
+    {
+        Name = theme;
+        File = theme.wav;
+        Build Settings Last Modified Low = 406644899;
+        Build Settings Last Modified High = 30146636;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 44;
+            Play Region Length = 11419648;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 2049302272;
+            Last Modified High = 30149043;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

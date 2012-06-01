@@ -1,0 +1,6 @@
+Content\Sound\Music\music.xgs
+Content\Sound\Music\music.xwb
+Content\Sound\Music\music.xsb
+Content\Sound\Sound\Sounds.xgs
+Content\Sound\Sound\Sounds.xwb
+Content\Sound\Sound\Sounds.xsb

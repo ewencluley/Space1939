@@ -1,0 +1,3 @@
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899Content\obj\x86\Debug\Sound\Music\music.xml
+C:\Users\Ewen\Documents\Visual Studio 2010\Projects\Space1899\Space1899\Space1899Content\obj\x86\Debug\Sound\Sound\Sounds.xml

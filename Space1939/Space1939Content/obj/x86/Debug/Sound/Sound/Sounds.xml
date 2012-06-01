@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="Sounds">Wave Bank
+{
+    Name = Sounds;
+    Xbox File = Xbox\Sounds.xwb;
+    Windows File = Win\Sounds.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 2211143822;
+    PC Bank Last Modified High = 30149295;
+    Bank Last Revised Low = 1353444764;
+    Bank Last Revised High = 30149295;
+
+    Wave
+    {
+        Name = click;
+        File = click.wav;
+        Build Settings Last Modified Low = 3869055891;
+        Build Settings Last Modified High = 30144242;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 246;
+            Play Region Length = 4730;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3449773307;
+            Last Modified High = 30147679;
+        }
+    }
+
+    Wave
+    {
+        Name = trainsSound;
+        File = trainsSound.wav;
+        Build Settings Last Modified Low = 30297982;
+        Build Settings Last Modified High = 30147630;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 244;
+            Play Region Length = 53542;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4227341057;
+            Last Modified High = 30147677;
+        }
+    }
+
+    Wave
+    {
+        Name = explosion-01;
+        File = explosion-01.wav;
+        Build Settings Last Modified Low = 327201688;
+        Build Settings Last Modified High = 30147632;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 8000;
+            Bits Per Sample = 0;
+            Play Region Offset = 44;
+            Play Region Length = 22071;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 221015615;
+            Last Modified High = 30147632;
+        }
+    }
+
+    Wave
+    {
+        Name = rockImpact1;
+        File = rockImpact1.wav;
+        Build Settings Last Modified Low = 1255439159;
+        Build Settings Last Modified High = 30149295;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 276;
+            Play Region Length = 148608;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 76031700;
+            Last Modified High = 30149295;
+        }
+    }
+
+    Wave
+    {
+        Name = rockImpact2;
+        File = rockImpact2.wav;
+        Build Settings Last Modified Low = 1255439159;
+        Build Settings Last Modified High = 30149295;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 294;
+            Play Region Length = 177408;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4271993334;
+            Last Modified High = 30149294;
+        }
+    }
+
+    Wave
+    {
+        Name = rockImpact3;
+        File = rockImpact3.wav;
+        Build Settings Last Modified Low = 1255449159;
+        Build Settings Last Modified High = 30149295;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 1;
+            Sampling Rate = 11025;
+            Bits Per Sample = 1;
+            Play Region Offset = 222;
+            Play Region Length = 31104;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 4111064129;
+            Last Modified High = 30149294;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

@@ -1,0 +1,15 @@
+Content\Models\Player\spaceship.xnb
+Content\Models\Player\teapot.xnb
+Content\Models\Player\spaceship2.xnb
+Content\Menus\ControlMenu\controllerSelect.xnb
+Content\Menus\MainMenu\Buttons\exit_button.xnb
+Content\Menus\MainMenu\Buttons\options_button.xnb
+Content\Menus\MainMenu\Buttons\resume_button.xnb
+Content\Menus\arrow.xnb
+Content\Menus\MainMenu\Menu.xnb
+Content\Menus\OptionsMenu\menu_options.xnb
+Content\Menus\OptionsMenu\Buttons\changeControllerButton.xnb
+Content\Menus\OptionsMenu\Buttons\off.xnb
+Content\Menus\OptionsMenu\Buttons\on.xnb
+Content\Menus\OptionsMenu\Buttons\slider.xnb
+Content\Menus\OptionsMenu\Buttons\sliderBackGround.xnb
